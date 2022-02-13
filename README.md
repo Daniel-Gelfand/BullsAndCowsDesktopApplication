@@ -16,7 +16,7 @@ BullsAndCows game
 ![alt text](https://www.linkpicture.com/q/Screenshot_2_26.jpg)
 
 * The initial state will be a board that will contain:
-1 .4 Black buttons.
+1. 4 Black buttons.
 2. X rows of colorless buttons according to the maximum number of guesses the user requested in the first window.
 3. To the right of each line will appear a button with which the user can decide that he has finished selecting the current guess.
 And seeks to present the result of a guess. Arrow buttons start in "Inactive" mode
